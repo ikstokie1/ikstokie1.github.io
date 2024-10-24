@@ -4,7 +4,7 @@ title: Welcome
 ---
 
 
-Hello! I'm ikstokie1.
+Hello! I'm FrostByte. (former known as ikstokie1).
 
 ## About Me
 
