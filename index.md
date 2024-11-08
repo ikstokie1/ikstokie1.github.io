@@ -20,7 +20,7 @@ Here are some of the projects I've been working on:
 
 ## Join the Discussion
 
-Have questions or want to discuss something? Join the conversation in our [GitHub Discussions](https://github.com/ikstokie1/ikstokie1.github.io/discussions) forum!
+Have questions or want to discuss something? Join the conversation in my  [GitHub Discussions](https://github.com/ikstokie1/ikstokie1.github.io/discussions) forum!
 
 ## Contact
 
