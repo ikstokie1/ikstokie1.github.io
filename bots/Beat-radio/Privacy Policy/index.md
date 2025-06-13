@@ -1,3 +1,7 @@
+---
+layout: default
+title: Privacy Policy
+---
 **Privacy Policy for Beat Radio**
 Last Updated: 6/13/2025
 
