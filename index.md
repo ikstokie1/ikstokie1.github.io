@@ -17,6 +17,8 @@ Here are some of the projects I've been working on:
 - **Beatmusic**: Is the firs ever created bot by me that can play music in your discord voice channel.
 - **Beatradio**: Is a discord bot that can play live radio in your voice channel.
 - **And more**:
+  Looking for Bot policies or specs?👇
+  Click [Here](ikstokie1.github.io/bots)
 
 ## Join the Discussion
 
