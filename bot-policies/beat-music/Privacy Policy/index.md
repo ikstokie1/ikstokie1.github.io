@@ -43,4 +43,4 @@ You have the right to know what data is being collected about you and may reques
 We may update this privacy policy from time to time to reflect changes in our practices. We will notify you of any significant changes by revising the policy and updating the date of the last revision at the top of this document.
 
 9. **Contact Information**
-If you have any questions about this privacy policy or our data collection and use practices, please contact us via Discord DM at ikstokie1#3244 or at https://discord.gg/TtQU469mRf.
+If you have any questions about this privacy policy or our data collection and use practices, please contact us via Discord https://discord.gg/TtQU469mRf.
