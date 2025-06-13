@@ -25,5 +25,3 @@ Have questions or want to discuss something? Join the conversation in my  [GitHu
 ## Contact
 
 Feel free to reach out to me via discord ikstokie1#3244.
-
-Thank you for visiting!
