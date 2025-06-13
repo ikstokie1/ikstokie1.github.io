@@ -36,4 +36,4 @@ We reserve the right to modify these Terms at any time. Changes will be effectiv
 We reserve the right to terminate or suspend your access to the bot, with or without prior notice, if you breach these Terms or if we deem it necessary for any other reason.
 
 7. **Contact Information**
-If you have any questions about these Terms or your use of the bot, please contact us via Discord https://discord.gg/TtQU469mRf.
+If you have any questions about these Terms or your use of the bot, please contact us via Discord [discord.gg/bc](https://discord.gg/TtQU469mRf)
