@@ -5,7 +5,7 @@ title: bot policies
 
 ## Policies 
 
-**Beatmusic**: [Privacy Policy]() [Terms of Service]()
+**Beatmusic**: [Privacy Policy](https://ikstokie1.github.io/bots/beat-music/Privacy%20Policy/) [Terms of Service](https://ikstokie1.github.io/bots/beat-music/Terms%20of%20Service/)
 **Beatradio**: [Privacy policy]() [Terms of Service]()
 
 ## Contact
