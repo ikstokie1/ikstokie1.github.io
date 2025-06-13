@@ -17,14 +17,18 @@ We do not collect personal data such as your name, email address, or other ident
 When you use our bot, we collect the following data:
 
 **Discord User ID**: To link the bot to your Discord account and manage your requests.
+
 **Server ID**: To understand on which servers the bot is used and to store server-specific settings.
+
 **Messages and Commands**: We log the commands you enter and the messages the bot sends, solely to process your requests and improve the service.
 
 3. **How We Use Data**
 We use the collected data for the following purposes:
 
 **Service Provision**: To process your requests, such as playing music and responding to commands.
+
 **Service Improvement**: To enhance the functionality and performance of our bot by analyzing usage patterns.
+
 **Support**: To assist you with any issues or questions regarding the bot.
 
 4. **Data Security**
