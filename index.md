@@ -20,7 +20,7 @@ Take a look at some of the exciting projects I’ve been working on:
 
 - **And more**:
   Looking for Bot policies or specs?
-  (Click [Here](ikstokie1.github.io/bots))
+  (Click [Here](ikstokie1.github.io/bots/))
 
 ## Join the Discussion
 
