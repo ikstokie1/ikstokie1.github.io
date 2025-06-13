@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bots
+title: Bots
 ---
 ## Bots 
 **Beat Radio**:
