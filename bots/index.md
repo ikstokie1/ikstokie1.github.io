@@ -1,12 +1,14 @@
 ---
 layout: default
-title: bot policies
+title: bots
 ---
-
-## Policies 
+## Bots 
+**Beat Radio**:
+**Beat music**:
+## Policies
 
 **Beatmusic**: [Privacy Policy](https://ikstokie1.github.io/bots/beat-music/Privacy%20Policy/) [Terms of Service](https://ikstokie1.github.io/bots/beat-music/Terms%20of%20Service/)
-**Beatradio**: [Privacy policy]() [Terms of Service]()
+**Beatradio**: [Privacy policy](https://ikstokie1.github.io/bots/Beat-radio/Privacy%20Policy/) [Terms of Service](https://ikstokie1.github.io/bots/Beat-radio/Terms%20of%20Service/)
 
 ## Contact
 Facing some issue?
