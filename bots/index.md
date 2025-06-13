@@ -5,6 +5,7 @@ title: bots
 ## Bots 
 **Beat Radio**:
 **Beat music**:
+
 ## Policies
 
 **Beatmusic**: [Privacy Policy](https://ikstokie1.github.io/bots/beat-music/Privacy%20Policy/) [Terms of Service](https://ikstokie1.github.io/bots/beat-music/Terms%20of%20Service/)
@@ -13,6 +14,5 @@ title: bots
 
 ## Contact
 Facing some issue?
-Feel free to reach out to me via discord ikstokie1#3244
-Or via the support [discord](https://discord.gg/TtQU469mRf)
+Feel free to reach out via the support [discord](https://discord.gg/TtQU469mRf)
 
