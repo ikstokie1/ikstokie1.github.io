@@ -3,9 +3,9 @@ layout: default
 title: Bots
 ---
 ## Bots 
-**Beat Radio**:
+**Beat Radio**.
 
-**Beat music**:
+**Beat music**.
 
 ## Policies
 
