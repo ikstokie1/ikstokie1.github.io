@@ -18,6 +18,8 @@ Take a look at some of the exciting projects I’ve been working on:
 
 - **Beatradio**: This Discord bot allows you to stream live radio stations seamlessly into any voice channel.
 
+-**Data-breach-tracker**: This repository automatically tracks data breaches involving major companies such as Google, Meta, Microsoft, and others.
+
 - **And more**:
   Looking for Bot policies or specs?
   (Click [Here](https://ikstokie1.github.io/bots/))
