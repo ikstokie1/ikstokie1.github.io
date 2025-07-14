@@ -1,6 +1,6 @@
 ---
 layout: default
-title: terms of Service
+title: Terms of Service
 ---
 **Terms of Service for Beat Radio**
 Last Updated: 6/13/2025
