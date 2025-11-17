@@ -14,13 +14,9 @@ I'm an active developer on Discord with a passion for coding. Here, you can lear
 
 Take a look at some of the exciting projects I’ve been working on:
 
-- **Beatmusic**: This is the first music bot I’ve ever created, designed to play music directly in your Discord voice channel.
+- **[Beatmusic](Beat-Music/index.html)**: This is the first music bot I’ve ever created, designed to play music directly in your Discord voice channel.
 
-- **Beatradio**: This Discord bot allows you to stream live radio stations seamlessly into any voice channel.
-
-- **And more**:
-  Looking for Bot policies or specs?
-  (Click [Here](https://ikstokie1.github.io/bots/))
+- **[Beatradio](Beat-Radio/index.html)**: This Discord bot allows you to stream live radio stations seamlessly into any voice channel.
 
 ## Join the Discussion
 
